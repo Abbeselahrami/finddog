@@ -1,0 +1,26 @@
+{
+  "contactEmail": "abbes.elahrami@gmail.com",
+  "ads": {
+    "enabled": true,
+
+    "appOpenEnabled": true,
+    "appOpenOnResume": true,
+    "bannerEnabled": true,
+    "mrecEnabled": false,
+    "interstitialEnabled": true,
+    "rewardedEnabled": true,
+
+    "appOpenId": "ca-app-pub-3940256099942544/5575463023",
+    "bannerId": "ca-app-pub-3940256099942544/2934735716",
+    "mrecId": "ca-app-pub-3940256099942544/2934735716",
+    "interstitialId": "ca-app-pub-3940256099942544/4411468910",
+    "rewardedId": "ca-app-pub-3940256099942544/1712485313",
+
+    "interstitialOnLevelEnter": true,
+    "interstitialOnNextLevel": true,
+    "interstitialOnBack": true,
+    "interstitialOnGameOver": true,
+
+    "minSecondsBetweenInterstitials": 15
+  }
+}
