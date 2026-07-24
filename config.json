@@ -3,11 +3,11 @@
   "ads": {
     "enabled": true,
 
-    "appOpenEnabled": true,
-    "appOpenOnResume": true,
+    "appOpenEnabled": false,
+    "appOpenOnResume": false,
     "bannerEnabled": true,
-    "mrecEnabled": true,
-    "interstitialEnabled": true,
+    "mrecEnabled": false,
+    "interstitialEnabled": false,
     "rewardedEnabled": true,
 
     "appOpenId": "ca-app-pub-3940256099942544/5575463023",
@@ -16,10 +16,10 @@
     "interstitialId": "ca-app-pub-3940256099942544/4411468910",
     "rewardedId": "ca-app-pub-3940256099942544/1712485313",
 
-    "interstitialOnLevelEnter": true,
-    "interstitialOnNextLevel": true,
-    "interstitialOnBack": true,
-    "interstitialOnGameOver": true,
+    "interstitialOnLevelEnter": false,
+    "interstitialOnNextLevel": false,
+    "interstitialOnBack": false,
+    "interstitialOnGameOver": false,
 
     "minSecondsBetweenInterstitials": 15
   }
