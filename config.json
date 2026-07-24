@@ -3,12 +3,12 @@
   "ads": {
     "enabled": true,
 
-    "appOpenEnabled": true,
-    "appOpenOnResume": true,
-    "bannerEnabled": true,
+    "appOpenEnabled": false,
+    "appOpenOnResume": false,
+    "bannerEnabled": false,
     "mrecEnabled": false,
-    "interstitialEnabled": true,
-    "rewardedEnabled": true,
+    "interstitialEnabled": false,
+    "rewardedEnabled": false,
 
     "appOpenId": "ca-app-pub-3940256099942544/5575463023",
     "bannerId": "ca-app-pub-3940256099942544/2934735716",
@@ -16,10 +16,10 @@
     "interstitialId": "ca-app-pub-3940256099942544/4411468910",
     "rewardedId": "ca-app-pub-3940256099942544/1712485313",
 
-    "interstitialOnLevelEnter": true,
-    "interstitialOnNextLevel": true,
-    "interstitialOnBack": true,
-    "interstitialOnGameOver": true,
+    "interstitialOnLevelEnter": false,
+    "interstitialOnNextLevel": false,
+    "interstitialOnBack": false,
+    "interstitialOnGameOver": false,
 
     "minSecondsBetweenInterstitials": 15
   }
