@@ -1,7 +1,7 @@
 {
   "contactEmail": "contact@puzzlestime.com",
   "ads": {
-    "enabled": false,
+    "enabled": true,
 
     "appOpenEnabled": false,
     "appOpenOnResume": false,
