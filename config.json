@@ -1,13 +1,13 @@
 {
   "contactEmail": "contact@puzzlestime.com",
   "ads": {
-    "enabled": false,
+    "enabled": true,
 
-    "appOpenEnabled": false,
-    "appOpenOnResume": false,
+    "appOpenEnabled": true,
+    "appOpenOnResume": true,
     "bannerEnabled": true,
-    "mrecEnabled": false,
-    "interstitialEnabled": false,
+    "mrecEnabled": true,
+    "interstitialEnabled": true,
     "rewardedEnabled": true,
 
     "appOpenId": "ca-app-pub-3940256099942544/5575463023",
@@ -16,10 +16,10 @@
     "interstitialId": "ca-app-pub-3940256099942544/4411468910",
     "rewardedId": "ca-app-pub-3940256099942544/1712485313",
 
-    "interstitialOnLevelEnter": false,
-    "interstitialOnNextLevel": false,
-    "interstitialOnBack": false,
-    "interstitialOnGameOver": false,
+    "interstitialOnLevelEnter": true,
+    "interstitialOnNextLevel": true,
+    "interstitialOnBack": true,
+    "interstitialOnGameOver": true,
 
     "minSecondsBetweenInterstitials": 15
   }
