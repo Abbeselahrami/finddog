@@ -16,7 +16,7 @@
     "interstitialId": "ca-app-pub-9506635085951458/8552416586",
     "rewardedId": "ca-app-pub-9506635085951458/7239334917",
 
-    "interstitialOnLevelEnter": true,
+    "interstitialOnLevelEnter": false,
     "interstitialOnNextLevel": true,
     "interstitialOnBack": true,
     "interstitialOnGameOver": true,
